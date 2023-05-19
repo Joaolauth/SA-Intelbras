@@ -24,7 +24,7 @@ Projeto de irrigação automatizada
 - 1m Cano 1/2
 - 1 flange pvc 1/2
 - 1 adaptador Interno com Redução 1/2 X 3/8
-- 2 Bicos nebulizador aspersor irrigação
+- 2 Bicos nebulizador aspersor irrigação 3/8
 - 10m mangueira cristal 3/8
 - 1 Eletrobomba 220v 34w
 - 1 Modulo relé
